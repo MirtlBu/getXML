@@ -12,6 +12,7 @@ function start(){
     }
     xmlhttp.open("GET","xml/list.xml",false);
     xmlhttp.send();
-    data = xmlhttp.responseXML;
+    parser=new DOMParser();
+    data = parser.parseFromString(xmlhttp.responseXML, "application/xml");
     alert(data);
 }
