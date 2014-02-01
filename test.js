@@ -10,12 +10,8 @@ function start(){
     {// code for IE6, IE5
         xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
     }
-    xmlhttp.open("GET","xml/list.xml",true);
+    xmlhttp.open("GET","xml/list.xml",false);
     xmlhttp.send();
-    xmlhttp.onreadystatechange=function(){
-        if (xmlhttp.readyState==4 && xmlhttp.status==200){
-            data = xmlhttp.responseXML;
-            alert(data);
-        }
-    }
+    data = xmlhttp.responseXML;
+    alert(data);
 }
