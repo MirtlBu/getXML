@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <item>
+    <title>Twitter</title>
+	<link>http://twitter.com/</link>
+	<description>Twitter is an online social networking and microblogging service that enables users to send and read "tweets", 
+	which are text messages limited to 140 characters.</description>
+  </item>
+  <item>
+    <title>Facebook</title>
+	<link>http://www.facebook.com/</link>
+	<description>Facebook is an online social networking service. 
+	Its name comes from a colloquialism for the directory given to students at some American universities.</description>
+  </item>
+  <item>
+    <title>Google+</title>
+	<link>http://plus.google.com/</link>
+	<description>Google has described Google+ as a "social layer" that enhances many of its online properties, 
+	and that it is not simply a social networking website, 
+	but also an authorship tool that associates web-content directly with its owner/author.</description>
+  </item>
+  <item>
+    <title>YouTube</title>
+	<link>http://www.youtube.com/</link>
+	<description>YouTube is a video-sharing website, 
+	created by three former PayPal employees in February 2005 and owned by Google since late 2006, 
+	on which users can upload, view and share videos.</description>
+  </item>
