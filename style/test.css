@@ -5,7 +5,7 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background: url("http://www.getmesoftware.com/Industries/images/Webhosting-Internet-13.jpg") auto 90% no-repeat center center fixed #000;
+    background: url("http://www.getmesoftware.com/Industries/images/Webhosting-Internet-13.jpg") no-repeat center center fixed #000;
     
 }
 p{
